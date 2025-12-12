@@ -6,7 +6,7 @@ Plpanel is a sleek and efficient dashboard designed for managing your resources 
 
 ### Installation
 
-To install and start the Oversee dashboard, run the following commands:
+To install and start the PLPANEL dashboard, run the following commands:
 
 ```bash
 git clone https://github.com/trockboppro/PLPANEL.git && cd Oversee && npm install && npm run seed && npm run createUser && node .
