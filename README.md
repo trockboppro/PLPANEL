@@ -1,6 +1,6 @@
 # PLPANEL Dashboard
 
-![PLPANEL Logo]()
+![PLPANEL Logo](https://github.com/trockboppro/PLPANEL/blob/main/plpanel.webp)
 
 Plpanel is a sleek and efficient dashboard designed for managing your resources with ease. While Discord login isn’t implemented yet, you can still enjoy a seamless experience managing your system.
 
