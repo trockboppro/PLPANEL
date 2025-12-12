@@ -9,7 +9,7 @@ Plpanel is a sleek and efficient dashboard designed for managing your resources 
 To install and start the PLPANEL dashboard, run the following commands:
 
 ```bash
-git clone https://github.com/trockboppro/PLPANEL.git && cd Oversee && npm install && npm run seed && npm run createUser && node .
+git clone https://github.com/trockboppro/PLPANEL.git && cd PLPANEL && npm install && npm run seed && npm run createUser && node .
 ```
 
 ### Notes
