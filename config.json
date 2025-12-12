@@ -1,0 +1,14 @@
+{
+    "baseUri": "http://localhost:80",
+    "port": 80,
+    "domain": "localhost",
+    "mode": "production",
+    "version": "1.0.1",
+    "ogTitle": "PLPANEL",
+    "ogDescription": "Xin Chao ! Toi la Trockbop Nguoi Tao Ra PLPANEL",
+    "total_resources": {
+        "ram": 1096,
+        "cores": 1,
+        "disk": 5
+    }
+} 
